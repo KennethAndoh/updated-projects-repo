@@ -229,14 +229,3 @@ form .row label{
     background: #6a93f8;
 }
 
-marquee{
-    position: absolute;
-    bottom: 0;
-    width: 100%;
-    background-color: #fff;
-}
-
-marquee span{
-    color: red;
-}
-
